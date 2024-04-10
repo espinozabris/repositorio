@@ -1,0 +1,37 @@
+*{
+	padding: 0px;
+	margin: 0 auto;
+}
+
+.container{
+	width: 95%;
+	height: 510px;
+	background-color: #D8C7DF;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+.estudios{
+	width: 250px;
+	height: 200px;
+	background-color: #F9B4EA;
+	margin-top: 20px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.estudios img{
+	width: 250px;
+	height: 200px;
+}
+
+.academica{
+	width: 1000px;
+	height: 200px;
+	background-color:;
+	margin-top: 20px;
+	float: right;
+	margin-right: 20px;
+	margin-left: 20px;
+}
